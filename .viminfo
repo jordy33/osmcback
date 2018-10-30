@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :q
-|2,0,1540941663,,"q"
+|2,0,1540942991,,"q"
 :w
-|2,0,1534257991,,"w"
+|2,0,1540942990,,"w"
 :57
 |2,0,1530630210,,"57"
 :86
@@ -34,26 +34,38 @@
 |3,1,1,1,1,0,1534257990,"nohup tune-s2 3860 H 30000 -lnb CBAND -system DVB-S2>s.log&"
 
 # File marks:
-'0  27  28  ~/.ssh/id_rsa.pub
-|4,48,27,28,1540941663,"~/.ssh/id_rsa.pub"
-'1  1  0  ~/dvb/m2
-|4,49,1,0,1534257992,"~/dvb/m2"
-'2  57  1  ~/udpxy/udpxy/dpkt.c
-|4,50,57,1,1530630215,"~/udpxy/udpxy/dpkt.c"
-'3  200  0  ~/dvb/udpxy/Makefile
-|4,51,200,0,1530629592,"~/dvb/udpxy/Makefile"
-'4  86  0  ~/dvb/udpxy/udpxy.c
-|4,52,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
+'0  1  21  ~/osmcversion.txt
+|4,48,1,21,1540942991,"~/osmcversion.txt"
+'1  27  28  ~/.ssh/id_rsa.pub
+|4,49,27,28,1540941663,"~/.ssh/id_rsa.pub"
+'2  1  0  ~/dvb/m2
+|4,50,1,0,1534257992,"~/dvb/m2"
+'3  57  1  ~/udpxy/udpxy/dpkt.c
+|4,51,57,1,1530630215,"~/udpxy/udpxy/dpkt.c"
+'4  200  0  ~/dvb/udpxy/Makefile
+|4,52,200,0,1530629592,"~/dvb/udpxy/Makefile"
+'5  86  0  ~/dvb/udpxy/udpxy.c
+|4,53,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
 
 # Jumplist (newest first):
+-'  1  21  ~/osmcversion.txt
+|4,39,1,21,1540942991,"~/osmcversion.txt"
 -'  27  28  ~/.ssh/id_rsa.pub
 |4,39,27,28,1540941663,"~/.ssh/id_rsa.pub"
+-'  27  28  ~/.ssh/id_rsa.pub
+|4,39,27,28,1540941663,"~/.ssh/id_rsa.pub"
+-'  1  0  ~/.ssh/id_rsa.pub
+|4,39,1,0,1540941650,"~/.ssh/id_rsa.pub"
 -'  1  0  ~/.ssh/id_rsa.pub
 |4,39,1,0,1540941650,"~/.ssh/id_rsa.pub"
 -'  1  0  ~/dvb/m2
 |4,39,1,0,1534257992,"~/dvb/m2"
 -'  1  0  ~/dvb/m2
 |4,39,1,0,1534257992,"~/dvb/m2"
+-'  1  0  ~/dvb/m2
+|4,39,1,0,1534257992,"~/dvb/m2"
+-'  1  0  ~/dvb/m2
+|4,39,1,0,1534257992,"~/dvb/m2"
 -'  57  1  ~/udpxy/udpxy/dpkt.c
 |4,39,57,1,1530630215,"~/udpxy/udpxy/dpkt.c"
 -'  57  1  ~/udpxy/udpxy/dpkt.c
@@ -62,6 +74,22 @@
 |4,39,57,1,1530630215,"~/udpxy/udpxy/dpkt.c"
 -'  57  1  ~/udpxy/udpxy/dpkt.c
 |4,39,57,1,1530630215,"~/udpxy/udpxy/dpkt.c"
+-'  57  1  ~/udpxy/udpxy/dpkt.c
+|4,39,57,1,1530630215,"~/udpxy/udpxy/dpkt.c"
+-'  57  1  ~/udpxy/udpxy/dpkt.c
+|4,39,57,1,1530630215,"~/udpxy/udpxy/dpkt.c"
+-'  57  1  ~/udpxy/udpxy/dpkt.c
+|4,39,57,1,1530630215,"~/udpxy/udpxy/dpkt.c"
+-'  57  1  ~/udpxy/udpxy/dpkt.c
+|4,39,57,1,1530630215,"~/udpxy/udpxy/dpkt.c"
+-'  1  0  ~/udpxy/udpxy/dpkt.c
+|4,39,1,0,1530630207,"~/udpxy/udpxy/dpkt.c"
+-'  1  0  ~/udpxy/udpxy/dpkt.c
+|4,39,1,0,1530630207,"~/udpxy/udpxy/dpkt.c"
+-'  1  0  ~/udpxy/udpxy/dpkt.c
+|4,39,1,0,1530630207,"~/udpxy/udpxy/dpkt.c"
+-'  1  0  ~/udpxy/udpxy/dpkt.c
+|4,39,1,0,1530630207,"~/udpxy/udpxy/dpkt.c"
 -'  1  0  ~/udpxy/udpxy/dpkt.c
 |4,39,1,0,1530630207,"~/udpxy/udpxy/dpkt.c"
 -'  1  0  ~/udpxy/udpxy/dpkt.c
@@ -86,6 +114,38 @@
 |4,39,200,0,1530629592,"~/dvb/udpxy/Makefile"
 -'  200  0  ~/dvb/udpxy/Makefile
 |4,39,200,0,1530629592,"~/dvb/udpxy/Makefile"
+-'  200  0  ~/dvb/udpxy/Makefile
+|4,39,200,0,1530629592,"~/dvb/udpxy/Makefile"
+-'  200  0  ~/dvb/udpxy/Makefile
+|4,39,200,0,1530629592,"~/dvb/udpxy/Makefile"
+-'  200  0  ~/dvb/udpxy/Makefile
+|4,39,200,0,1530629592,"~/dvb/udpxy/Makefile"
+-'  200  0  ~/dvb/udpxy/Makefile
+|4,39,200,0,1530629592,"~/dvb/udpxy/Makefile"
+-'  200  0  ~/dvb/udpxy/Makefile
+|4,39,200,0,1530629592,"~/dvb/udpxy/Makefile"
+-'  200  0  ~/dvb/udpxy/Makefile
+|4,39,200,0,1530629592,"~/dvb/udpxy/Makefile"
+-'  200  0  ~/dvb/udpxy/Makefile
+|4,39,200,0,1530629592,"~/dvb/udpxy/Makefile"
+-'  200  0  ~/dvb/udpxy/Makefile
+|4,39,200,0,1530629592,"~/dvb/udpxy/Makefile"
+-'  1  0  ~/dvb/udpxy/Makefile
+|4,39,1,0,1530629582,"~/dvb/udpxy/Makefile"
+-'  1  0  ~/dvb/udpxy/Makefile
+|4,39,1,0,1530629582,"~/dvb/udpxy/Makefile"
+-'  1  0  ~/dvb/udpxy/Makefile
+|4,39,1,0,1530629582,"~/dvb/udpxy/Makefile"
+-'  1  0  ~/dvb/udpxy/Makefile
+|4,39,1,0,1530629582,"~/dvb/udpxy/Makefile"
+-'  1  0  ~/dvb/udpxy/Makefile
+|4,39,1,0,1530629582,"~/dvb/udpxy/Makefile"
+-'  1  0  ~/dvb/udpxy/Makefile
+|4,39,1,0,1530629582,"~/dvb/udpxy/Makefile"
+-'  1  0  ~/dvb/udpxy/Makefile
+|4,39,1,0,1530629582,"~/dvb/udpxy/Makefile"
+-'  1  0  ~/dvb/udpxy/Makefile
+|4,39,1,0,1530629582,"~/dvb/udpxy/Makefile"
 -'  1  0  ~/dvb/udpxy/Makefile
 |4,39,1,0,1530629582,"~/dvb/udpxy/Makefile"
 -'  1  0  ~/dvb/udpxy/Makefile
@@ -134,16 +194,38 @@
 |4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
 -'  86  0  ~/dvb/udpxy/udpxy.c
 |4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
--'  1  0  ~/dvb/udpxy/udpxy.c
-|4,39,1,0,1530629022,"~/dvb/udpxy/udpxy.c"
--'  1  0  ~/dvb/udpxy/udpxy.c
-|4,39,1,0,1530629022,"~/dvb/udpxy/udpxy.c"
--'  1  0  ~/dvb/udpxy/udpxy.c
-|4,39,1,0,1530629022,"~/dvb/udpxy/udpxy.c"
--'  1  0  ~/dvb/udpxy/udpxy.c
-|4,39,1,0,1530629022,"~/dvb/udpxy/udpxy.c"
--'  1  0  ~/dvb/udpxy/udpxy.c
-|4,39,1,0,1530629022,"~/dvb/udpxy/udpxy.c"
+-'  86  0  ~/dvb/udpxy/udpxy.c
+|4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
+-'  86  0  ~/dvb/udpxy/udpxy.c
+|4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
+-'  86  0  ~/dvb/udpxy/udpxy.c
+|4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
+-'  86  0  ~/dvb/udpxy/udpxy.c
+|4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
+-'  86  0  ~/dvb/udpxy/udpxy.c
+|4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
+-'  86  0  ~/dvb/udpxy/udpxy.c
+|4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
+-'  86  0  ~/dvb/udpxy/udpxy.c
+|4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
+-'  86  0  ~/dvb/udpxy/udpxy.c
+|4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
+-'  86  0  ~/dvb/udpxy/udpxy.c
+|4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
+-'  86  0  ~/dvb/udpxy/udpxy.c
+|4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
+-'  86  0  ~/dvb/udpxy/udpxy.c
+|4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
+-'  86  0  ~/dvb/udpxy/udpxy.c
+|4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
+-'  86  0  ~/dvb/udpxy/udpxy.c
+|4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
+-'  86  0  ~/dvb/udpxy/udpxy.c
+|4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
+-'  86  0  ~/dvb/udpxy/udpxy.c
+|4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
+-'  86  0  ~/dvb/udpxy/udpxy.c
+|4,39,86,0,1530629028,"~/dvb/udpxy/udpxy.c"
 -'  1  0  ~/dvb/udpxy/udpxy.c
 |4,39,1,0,1530629022,"~/dvb/udpxy/udpxy.c"
 -'  1  0  ~/dvb/udpxy/udpxy.c
@@ -168,6 +250,13 @@
 |4,39,1,0,1530629022,"~/dvb/udpxy/udpxy.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/osmcversion.txt
+	*	1540942990	0
+	"	1	21
+	^	1	22
+	.	1	18
+	+	1	18
 
 > ~/.ssh/id_rsa.pub
 	*	1540941662	0
