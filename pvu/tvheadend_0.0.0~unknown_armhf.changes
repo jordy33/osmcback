@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Sun, 08 Jul 2018 17:48:47 -0500
+Source: tvheadend
+Binary: tvheadend tvheadend-dbg
+Architecture: armhf
+Version: 0.0.0~unknown
+Distribution: unstable
+Urgency: low
+Maintainer: Adam Sutton <aps@tvheadend.org>
+Changed-By: Andreas Öman <andreas@tvheadend.org>
+Description:
+ tvheadend  - Tvheadend
+ tvheadend-dbg - Debug symbols for Tvheadend
+Changes:
+ tvheadend (0.0.0~unknown) unstable; urgency=low
+ .
+   * The full changelog can be found at
+     https://tvheadend.org/projects/tvheadend/wiki/Releases
+Checksums-Sha1:
+ ff14ace0e4bcef52247d38bb386bc34104700d53 5200996 tvheadend-dbg_0.0.0~unknown_armhf.deb
+ 43cb9ea61db7e65da661e46178e7632275a3b541 6993 tvheadend_0.0.0~unknown_armhf.buildinfo
+ 013123a06b7be070dbbeda814f7a1494a357f7eb 7662124 tvheadend_0.0.0~unknown_armhf.deb
+Checksums-Sha256:
+ a1bb3454aade4d69a2168ed8d8e9c83b1b8392376921116bc2eb82e5b2ece703 5200996 tvheadend-dbg_0.0.0~unknown_armhf.deb
+ edf3b869ffdee901b13cb7a5453b163d6bff9df1e307113dce6521ae69c9ef63 6993 tvheadend_0.0.0~unknown_armhf.buildinfo
+ f131d1ef5ae7070ea5cb6827b38ed1341e6ef25e534460df4477ff755b541300 7662124 tvheadend_0.0.0~unknown_armhf.deb
+Files:
+ b2c202ac65c623edc30b536785ce04e8 5200996 debug extra tvheadend-dbg_0.0.0~unknown_armhf.deb
+ bf397c96dc920ffe1eda7b053d53defd 6993 video extra tvheadend_0.0.0~unknown_armhf.buildinfo
+ b3d8aa48337c2f3590e6c0eaeda805ca 7662124 video extra tvheadend_0.0.0~unknown_armhf.deb

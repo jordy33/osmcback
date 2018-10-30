@@ -1,0 +1,3 @@
+/home/osmc/pvu/tvheadend/../tvheadend-dbg_0.0.0~unknown_armhf.deb
+/home/osmc/pvu/tvheadend/../tvheadend_0.0.0~unknown_armhf.deb
+/home/osmc/pvu/tvheadend/../tvheadend_0.0.0~unknown_armhf.changes

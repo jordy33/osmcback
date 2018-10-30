@@ -1,0 +1,29 @@
+card=11
+freq=12525
+pol=h
+srate=30000
+
+autoconfiguration=full
+autoconf_sid_list=1003
+rewrite_pat=1
+rewrite_sdt=1
+sort_eit=1
+dont_send_scrambled=1
+filter_transport_error=1
+check_cc=1
+port_http=10011
+unicast=1
+scam_support=1
+lnb_voltage_off=1
+unicast_queue_size=2024000
+ring_buffer_default_size=131072
+decsa_default_delay=10000000
+send_default_delay=30000000
+sap=0
+
+#Channel 1
+new_channel
+ip=239.2.115.28
+name=BNT 1
+service_id=1003
+oscam=1
